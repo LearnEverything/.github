@@ -1,5 +1,7 @@
 # LearnEverything
+> 👔 - Welcome to LearnEverything, your call will be answered in the order it was received in.
 
+## Emojis
 * 💻: what the world wants, the world gets
 * 
 * 
@@ -7,8 +9,6 @@
 * 🎉: GitHub / API
 
 ## Graph
-> 👔 - Welcome to LearnEverything, your call will be answered in the order it was recieved in.
-
 | # | Subject | Resource Location | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | Keyword Adjustments for Salience / Magnitude | USCIS |  |
