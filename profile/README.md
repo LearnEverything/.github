@@ -8,16 +8,16 @@
 * 🌈: information transfer
 * 🎉: GitHub / API
 
-## Graph
+## Table
 | # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | Keyword Adjustments for Salience / Magnitude | InformationAsymmetry |  |
 | 1 |  |  |  |
-| 2 |  | | |
+| 2 | Potential Notations | | 🌈 |
 | 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | InformationAsymmetry |   |
 | 4 | Extreme Information Asymmetry Data | | |
 | 5 | Consumability of Infrastructure | | |
-| 6 |  |  |  |
+| 6 | Information Transfer Heuristic Artifacts |  |  |
 | 7 |  |  |  |
-| 8 | Information Transfer Heuristic Artifacts | The State Department |  |
+| 8 |  |  |  |
 | 9 |  |  |  |
